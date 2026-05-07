@@ -1,0 +1,93 @@
+body    {
+    margin: 0;
+   font-family: "League Spartan", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color:  #1f285c;
+    font-size: 25px;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: sticky;
+    top: 0;
+    
+}
+
+
+
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-family: "Notable", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sobre  {
+    display: flex;
+    align-items: center;
+    background-color: rgb(75, 83, 158);
+}
+
+.sobre p {
+    padding-left: 200px;
+    padding-right: 200px;
+    color: black;
+    
+}
+
+h2  {
+    font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+    text-align: center;
+}
+
+.minhaFoto {
+    height: 500px;
+    width: 400px;
+    margin-right: 300px;
+    margin-top: 400px;
+    margin-bottom: 400px;
+    border-radius: 50%;
+}
+
+.projetos {
+    display: flex;
+    justify-content: space-between;
+    background-color: #A7A5C6;
+}
+
+.imagemExperiencias   {
+    height: 300px;
+    width: 400px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.footerimg  {
+    align-items: center;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+footer {
+    background-color: #A7A5C6;
+
+
+
+}
